@@ -86,5 +86,13 @@ namespace UserMaintenance {
                 return ResourceManager.GetString("LastName", resourceCulture);
             }
         }
+
+        internal static string File
+        {
+            get
+            {
+                return ResourceManager.GetString("File", resourceCulture);
+            }
+        }
     }
 }
