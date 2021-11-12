@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelApp", "ExcelApp\ExcelA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAR", "VAR\VAR.csproj", "{F3E3D668-9151-4FBF-AC74-7D60119AD8FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallsProject", "BallsProject\BallsProject.csproj", "{06A1CA3C-BA7C-426D-BB08-42D4BC54908B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F3E3D668-9151-4FBF-AC74-7D60119AD8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3E3D668-9151-4FBF-AC74-7D60119AD8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3E3D668-9151-4FBF-AC74-7D60119AD8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A1CA3C-BA7C-426D-BB08-42D4BC54908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A1CA3C-BA7C-426D-BB08-42D4BC54908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A1CA3C-BA7C-426D-BB08-42D4BC54908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A1CA3C-BA7C-426D-BB08-42D4BC54908B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
